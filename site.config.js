@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'Qing-38d4374112d2463ea9babf68d4974111',
+  rootNotionPageId: 'Qing-df108820b9d242a6a11e134027121aef',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Qing',
-  domain: 'https://cnotion.notion.site/Qing-38d4374112d2463ea9babf68d4974111',
+  domain: 'https://synonymous-wavelength-29f.notion.site/Qing-df108820b9d242a6a11e134027121aef',
   author: 'Qing',
 
   // open graph metadata (optional)
