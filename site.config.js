@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Qing',
+  name: 'Leslie.x',
   domain: 'https://synonymous-wavelength-29f.notion.site/Qing-df108820b9d242a6a11e134027121aef',
-  author: 'Qing',
+  author: 'Leslie.x',
 
   // open graph metadata (optional)
   description: 'Example site description',
